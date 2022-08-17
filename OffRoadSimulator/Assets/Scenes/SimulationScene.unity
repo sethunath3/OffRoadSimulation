@@ -1116,7 +1116,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   offset: {x: 0, y: 2.73, z: -4.82}
-  target: {fileID: 7470736149044199529}
+  target: {fileID: 6425892349883931177}
   translationSpeed: 10
   rotationSpeed: 10
 --- !u!1 &1069049114
@@ -1932,7 +1932,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   offset: {x: -3.4, y: 1.2, z: 1.59}
-  target: {fileID: 7470736149044199529}
+  target: {fileID: 6425892349883931177}
   translationSpeed: 10
   rotationSpeed: 10
 --- !u!20 &2128715255
