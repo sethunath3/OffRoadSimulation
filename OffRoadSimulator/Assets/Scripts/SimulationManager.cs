@@ -5,6 +5,8 @@ using UnityEngine;
 public class SimulationManager : MonoBehaviour
 {
     [SerializeField] CarView carView;
+    [SerializeField] CameraFollow mainCamera;
+    [SerializeField] CameraFollow sideCamera;
     void Start()
     {
         CarControllerKeyBoard inputController = new CarControllerKeyBoard();
